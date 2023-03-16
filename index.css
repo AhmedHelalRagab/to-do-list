@@ -1,4 +1,7 @@
-
+.container{
+    width: 800px;
+    margin: 20px auto;
+}
 .container .form{
     background-color: #eee;
     padding: 20px;
@@ -11,6 +14,8 @@
     border: none;
     padding: 10px;
     width: 70%;
+    font-size: 22px;
+
 }
 @media (max-width:767px){
     .form .input{
@@ -26,6 +31,8 @@
     background-color: #5783db;
     padding: 10px;
     color: white;
+    cursor: pointer;
+    font-size: 18px;
 }
 .tasks {
     background-color: #eee;
@@ -41,6 +48,7 @@
     border-radius: 15px;
     background-color: white;
     align-items: center;
+    font-size: 20px;
 }
 .tasks .task .delete{
     border-radius: inherit;
@@ -61,5 +69,5 @@
     color: white;
     width: fit-content;
     margin: 15px auto;
-
+    cursor: pointer;
 }
