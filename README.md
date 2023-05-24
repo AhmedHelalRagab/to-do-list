@@ -1,5 +1,5 @@
 # to-do-list
-## This is a simple task manager implemented in JavaScript. The task manager allows you to add, delete, and mark tasks as completed. The tasks are stored in the ## ## local storage of the browser, ensuring persistence across page reloads.
+## This is a simple task manager implemented in JavaScript. The task manager allows you to add, delete, and mark tasks as completed. The tasks are stored in the local storage of the browser, ensuring persistence across page reloads.
 ### How to Use
 Enter a task in the input field.
 Click the "Add" button to add the task to the task manager.
